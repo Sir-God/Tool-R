@@ -21,5 +21,5 @@ def portSc():
 		for port in range(1, 1025):
 			if is_port_open(host, port):
 				print(f"{GREEN}[+] {host}:{port} is open      {RESET}")
-				else:
-					print(f"{GRAY}[!] {host}:{port} is closed    {RESET}", end="\r")
+		else:
+			print(f"{GRAY}[!] {host}:{port} is closed    {RESET}", end="\r")
