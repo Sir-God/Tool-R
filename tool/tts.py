@@ -5,11 +5,10 @@ from os import system
 from time import sleep
 from main.style import *
 
+RC, GC, YC, CC, DF = '\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;36m', '\033[1;37m'
+
 def textspeech():
-	test_w = 'For Now This Script Only Support English Language But We Are Working On this Script'
-	print(test_w)
-	sleep(7)
-	system('clear')
+	banner()
 	ttst = input("input text for create them mp3: ")
 	ttsn = input("Enter name for output mp3 with .mp3: ")
 
@@ -17,3 +16,4 @@ def textspeech():
 
 	tts.save(ttsn)
 	os.system('play-audio' + ' ' + ttsn)
+	print('audio file save in current directory as ',ttsn)
