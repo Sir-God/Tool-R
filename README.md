@@ -1,4 +1,4 @@
-# Tool-R
+# Tool-R v0.0.33
 Combination of useful python tools ... 😘
 
 this is a multi purpose python tool which is mostly created for termux and linux paltform
