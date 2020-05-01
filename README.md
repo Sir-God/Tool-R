@@ -21,5 +21,5 @@ Please make sure to update tests as appropriate.
 - tts(Text To mp3 creator Tool)
 
 ###### Thanks To
-- System Error
-- informeticayhacking
+- [System Failure](https://informaticayhacking.com]
+- Sir God
