@@ -17,6 +17,7 @@ def is_port_open(host, port):
 		return True
 		
 def portSc():
+	banner()
 	host = input(f"  {GREEN}Enter the host:{RESET}")
 	for port in range(1, 1025):
 		if is_port_open(host, port):
