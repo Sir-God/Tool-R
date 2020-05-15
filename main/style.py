@@ -17,7 +17,7 @@ def banner():
 
 
 def vers():
-	print(f"                    {YC}v0.0.4{DF}\n")
+	print(f"                    {YC}v0.0.5{DF}\n")
 
 
 banner()
