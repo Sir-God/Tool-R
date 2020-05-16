@@ -1,4 +1,4 @@
-# Tool-R v0.0.4
+# Tool-R v0.0.5
 Combination of useful python tools ... 😘
 
 this is a multi purpose python tool which is mostly created for termux and linux paltform
@@ -17,10 +17,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Tools Awailable in v0.0.4
+## Tools Awailable in v0.0.5
 - tts(Text To mp3 creator Tool)
 - Port Scanner
+- Base64 Encryption & Decryption
 
 ###### Thanks To
 - [System Failure](https://informaticayhacking.com)
 - Sir God
+
+### Sources
+sources | site
+------------ | ------------
+ThePythonCode | https://www.thepythoncode.com 
